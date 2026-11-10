@@ -39,4 +39,5 @@ Not available yet. A download will follow.
 ---
 
 RuleCrew is an independent product, not affiliated with or endorsed by IBM. IBM, ODM, Operational Decision
-Manager, Decision Center and Rule Designer are trademarks of IBM Corp.
+Manager, Decision Center and Rule Designer are trademarks of IBM Corp. IBM ODM is proprietary software owned by
+IBM. RuleCrew works with your own licensed ODM installation and does not include or distribute any IBM software.
