@@ -7,10 +7,11 @@ existing rules and checks projects without any AI model.
 
 ## Demo (13 minutes)
 
-[![RuleCrew demo](media/demo-poster.png)](https://github.com/RuleCrew/RuleAgents/releases/download/demo-2026-11-10/RuleCrew-demo-1080p.mp4)
+[![RuleCrew demo](media/demo-poster.png)](https://youtu.be/gS_DsnHsF78)
 
-- [Watch in full quality (1080p, 162 MB)](https://github.com/RuleCrew/RuleAgents/releases/download/demo-2026-11-10/RuleCrew-demo-1080p.mp4)
-- [Smaller copy for phones (720p, 26 MB)](https://github.com/RuleCrew/RuleAgents/releases/download/demo-2026-11-10/RuleCrew-demo-720p.mp4)
+- [Watch on YouTube](https://youtu.be/gS_DsnHsF78)
+- [Download in full quality (1080p, 162 MB)](https://github.com/RuleCrew/RuleAgents/releases/download/demo-2026-11-10/RuleCrew-demo-1080p.mp4)
+- [Download a smaller copy for phones (720p, 26 MB)](https://github.com/RuleCrew/RuleAgents/releases/download/demo-2026-11-10/RuleCrew-demo-720p.mp4)
 
 | Time | Chapter |
 |---|---|
