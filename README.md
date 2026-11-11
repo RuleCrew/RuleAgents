@@ -1,5 +1,7 @@
 # RuleCrew™ – AI agents for IBM ODM rule maintenance
 
+**Main page, documentation and download: https://github.com/RuleCrew/rulecrew**
+
 RuleCrew helps teams that maintain IBM Operational Decision Manager (ODM) rules. You ask for a change in plain
 English; agents plan it, build it with ODM's own build command, run it before and after on ODM's engine, replay
 known decisions, and show you every file to review before anything is written. It also answers questions about
