@@ -39,10 +39,7 @@ and approves every change.
 
 - [Ask about your rules in plain English (3:34)](https://youtu.be/ok7-_NKXZTw)
 - [Why did this request get this decision? (3:32)](https://youtu.be/hVP9DtpmvYI)
-- [Documentation of a rule project, generated (2:56)](https://youtu.be/SJdkgSrLF-A)
-- [Test cases and test data, explained (2:30)](https://youtu.be/L-mTyFXLQcQ)
 - [A rule change in a Rule Designer workspace (2:17)](https://youtu.be/lHOgIPHvlOs)
-- [A Decision Center change, approved by two people (2:14)](https://youtu.be/Ngq13GI8XeE)
 - [Checks that need no AI model (2:32)](https://youtu.be/WBkbXwIyriE)
 - [What's coming next, planned (1:13)](https://youtu.be/8uBt1h2eB68)
 
