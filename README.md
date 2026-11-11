@@ -37,6 +37,8 @@ and approves every change.
 
 - [Ask about your rules in plain English (3:34)](https://youtu.be/ok7-_NKXZTw)
 - [Why did this request get this decision? (3:32)](https://youtu.be/hVP9DtpmvYI)
+- [Checks that need no AI model (2:32)](https://youtu.be/WBkbXwIyriE)
+- [What's coming next, planned (1:13)](https://youtu.be/8uBt1h2eB68)
 
 ## Download
 
