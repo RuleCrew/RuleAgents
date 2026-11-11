@@ -46,6 +46,8 @@ and approves every change.
 - [Checks that need no AI model (2:32)](https://youtu.be/WBkbXwIyriE)
 - [What's coming next, planned (1:13)](https://youtu.be/8uBt1h2eB68)
 
+Recorded with IBM's free developer editions (IBM ODM for Developers and Rule Designer), used under IBM's terms for development and testing. RuleCrew does not include any IBM software.
+
 All videos, including "Deploy and run on the Rule Execution Server", can also be downloaded in full quality from the [demo release](https://github.com/RuleCrew/RuleAgents/releases/tag/demo-2026-11-10).
 
 ## Download
