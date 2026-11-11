@@ -33,6 +33,10 @@ existing rules and checks projects without any AI model.
 The demo shows real runs. Where a change could not be fully checked, the video shows that too: a person reviews
 and approves every change.
 
+## Short videos by topic
+
+- [Ask about your rules in plain English (3:34)](https://youtu.be/ok7-_NKXZTw)
+
 ## Download
 
 Not available yet. A download will follow.
